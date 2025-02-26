@@ -12,6 +12,7 @@ Hey everyone! 👋 I'm excited to share my latest SQL project, where I analyzed 
 🔹 SQL (GROUP BY, JOINS, CTEs, Window Functions)
 🔹 Data Cleaning & Aggregation
 🔹 Trend Analysis & Business Insights
+📌 Check out the full project and SQL queries on my GitHub: [https://github.com/Swatisingh86414/pizza_sales-sql-/blob/main/SQLQuery%20pizza%20sql%20project.sql]
 
 I’d love to hear your thoughts and feedback! Drop a comment or message if you have any suggestions. 😊
 
